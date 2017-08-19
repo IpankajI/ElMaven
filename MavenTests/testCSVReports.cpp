@@ -145,7 +145,7 @@ void TestCSVReports::testaddGroups() {
     QStringList colnames;
     colnames << "" << "0" << "1" << "1" << "786.1589"
     <<"14.93828"<<"0.6369841"<<"C12 PARENT"<<"FAD"
-    <<"HMDB01248"<<"C27H33N9O15P2" << "1.491716"<<"2562.053"<<"786.1589"
+    <<"HMDB01248"<<"C27H33N9O15P2" << "1.491715"<<"2562.053"<<"786.1589"
     <<"NA"<<"NA";
 
     QString header = colnames.join(",");
